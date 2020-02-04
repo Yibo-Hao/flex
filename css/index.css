@@ -63,9 +63,7 @@ header {
 }
 /*.content*/
 .imagelist {
-  
   width: 800px;
-  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -80,4 +78,5 @@ header {
   background: salmon;
   border: 1px solid green;
   margin-right: 12px;
+  margin-top: 10px;
 }
